@@ -136,8 +136,9 @@ public class Player : MonoBehaviour
             {
                 FinishMoving(CurNode);
             }
-            
+#if UNITY_ANDROID || UNITY_IOS        
             Handheld.Vibrate();
+#endif
         }
         else if (CurNode is Warp == false 
             && TargetNode != null 

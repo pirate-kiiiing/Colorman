@@ -471,7 +471,7 @@ TextureImporter:
       213: -6660575749969457965
     second: Icons_155
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -491,6 +491,8 @@ TextureImporter:
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -499,9 +501,9 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: -1
-    aniso: -1
-    mipBias: -100
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -522,10 +524,14 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -565,6 +571,30 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -3864,6 +3894,163 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      Icons_100: 3222497511411879781
+      Video_Green: -8305433391056667723
+      Icons_133: -1727509603783142218
+      Icons_110: -704072626132827017
+      Right_Red: 2514988542215765323
+      Icons_89: -8039649708095378205
+      Icons_39: -1654776687134263141
+      Icons_32: 3718842862631874603
+      Restart_Red: 2486193441875991756
+      Mute_Yellow: -7539582390867499684
+      Icons_35: 5812809956312101614
+      Icons_43: 1078536559429060484
+      Icons_128: -7321451856159453031
+      Icons_10: 3220665290143086019
+      Icons_131: -8774846801758000850
+      Icons_26: -5330826594950682575
+      Icons_119: 6105394806572371674
+      Icons_15: 5681967267464321869
+      Icons_88: 4531042861778818501
+      Icons_41: 7478791874471366628
+      Icons_49: 6510515419312912815
+      Music_Green: -6708775712610762294
+      Icons_73: 8334908997782909206
+      Icons_118: 5903629187334515948
+      Icons_58: -5427488090958776785
+      Icons_44: -2653506176444920285
+      Icons_117: -1173687485619277889
+      Icons_9: -8179040606652740800
+      Icons_78: -2055150756420260522
+      Icons_113: 1549610860180496264
+      Icons_112: 8219536567851285569
+      Icons_147: 4381687125935475815
+      Icons_76: 1251509516470864519
+      Theme_Yellow: 184950751378207249
+      Icons_46: -8670852054697128491
+      Icons_38: -5617832314116960257
+      Icons_99: 8181935718540107514
+      Cancel_Yellow: 4456606138393028795
+      Restart_Yellow: -2592873102402669163
+      Icons_77: -2115558230012415383
+      Icons_52: -7057806690012809336
+      Setting_Yellow: -4978252867655729665
+      Cancel_Blue: 2886472000214652729
+      Icons_95: -3603518108140141213
+      Music_Yellow: -1773794928376962842
+      Icons_129: -6539412924900987747
+      Icons_132: -1037140578559330142
+      Icons_25: -7899933087549869777
+      Icons_55: 4321908322816216039
+      Icons_92: 5060677361282179086
+      Icons_48: 1562533389854618834
+      Icons_71: 6558487808004080304
+      ArrowLeft_Red: 2798757189735573544
+      Icons_135: 4132427693139109809
+      Icons_155: -6660575749969457965
+      Icons_69: 1029129698335283115
+      ArrowRight_Red: 4550042099997060046
+      Icons_54: 7196004467878751866
+      Icons_103: 8770843898745299279
+      Icons_50: -505306787334139433
+      Icons_85: 5594145062663716712
+      Icons_124: 4127379869460123463
+      Icons_126: -6287849689731971950
+      Icons_97: -8606722388723651808
+      Icons_70: 4746938136148237707
+      Theme_Blue: 1202984965197363600
+      Mute_Blue: -3862903190024489479
+      Video_Red: -3081399305789323203
+      Icons_101: 6551204227046979828
+      Icons_102: -6989001855597078397
+      Icons_57: 5658616018816720155
+      Setting_Green: -3746996667692727156
+      Icons_109: 5108190036978443612
+      Icons_130: -1871949174840666283
+      Icons_36: -6565013819230968915
+      Left_Red: 1341854236672496375
+      Icons_21: -8930018218856646630
+      Icons_51: 2594068508085724225
+      Icons_140: 7387804390534379252
+      Icons_154: 2126625346608362562
+      Icons_14: -1772244045117237821
+      Icons_40: -2157682245520061201
+      Icons_116: 7265893439877330213
+      Facebook: -8611359072864696906
+      Icons_62: -2082710374031993758
+      Icons_146: 1259433821283789328
+      Icons_114: 5269444642970672531
+      Check_Green: -1098242080977233453
+      Mute_Red: -2319476694228375547
+      Icons_27: -4737426781762327817
+      Icons_47: -3970898316476944209
+      Icons_23: -9205221584584489300
+      Sound_Yellow: 7576617242518483205
+      Icons_75: 4947747515796799012
+      Icons_134: 1029011405913485410
+      Icons_68: 1156149144172314982
+      Icons_125: 2683897583123288342
+      Icons_37: -6876449859285394341
+      Icons_13: 3052315535316524931
+      Icons_42: -7308207070590811785
+      Icons_81: -6285503912819372267
+      Icons_87: -3637750033569793943
+      Icons_83: 1931102796045226437
+      Icons_145: 7061540714147780098
+      Icons_96: 2758960017261175285
+      Video_Blue: 8671817140711672497
+      Icons_86: -3484136540889019607
+      Icons_34: -3397230575767399492
+      Icons_153: -98085937798270465
+      Icons_91: -5721522318260220260
+      Icons_143: 5666088037176977375
+      Theme_Red: 1161201145128540330
+      Icons_53: 3929133199111790865
+      Icons_108: -5593506993200995841
+      Video_Yellow: 6595345381253832344
+      Icons_63: 2381692322217496694
+      Icons_144: 7763413453640793466
+      Setting_Red: -5127448163385361776
+      Check_Yellow: -3612593855502079269
+      Icons_79: -1154410560983737585
+      Restart_Blue: -4710408157825254453
+      Music_Blue: -4832589557458777731
+      Icons_115: 6116966500483186072
+      Sound_Green: -1863859237976802683
+      Icons_20: -168777754515822616
+      Restart_Green: -148319563816140896
+      Icons_93: -8247033164272917736
+      Icons_80: -1094522201974520084
+      Sound_Blue: 7374845061861626600
+      Check_Red: -9105473841235198011
+      Mute_Green: 9151725625850188775
+      Cancel_Red: 258660496704073780
+      Icons_11: 3434086634727231013
+      Icons_59: -7400975103877825773
+      Icons_111: -4914030945115847039
+      Icons_141: 4335969631078225397
+      Icons_22: -7058561907366660472
+      Icons_142: 1558120017376494892
+      Music_Red: -3994136872875580863
+      Icons_74: -5518778271455951048
+      Check_Blue: -4924580655118413468
+      Icons_94: -3082089127865695880
+      Icons_8: -6931339683150358059
+      Icons_45: 6136726090811837194
+      Sound_Red: 5543941588292853863
+      Cancel_Green: 8565383084468333999
+      Theme_Green: 2130535880278150251
+      Icons_98: -3817034200474380600
+      Icons_82: -5297615220031758764
+      Icons_60: -6500817091253424190
+      Icons_127: -2847658457890954652
+      Icons_90: -1058127918512293015
+      Icons_33: -2364435144087426543
+      Icons_56: 1470462077960011716
+      Setting_Blue: 8232244168967002515
+      Icons_61: -7607551139151047526
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
