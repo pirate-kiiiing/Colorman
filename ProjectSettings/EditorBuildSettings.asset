@@ -1,0 +1,311 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Title/Title.unity
+    guid: ce33172966d371c4c8dbe137737659d0
+  - enabled: 1
+    path: Assets/Scenes/1. Tutorial Move.unity
+    guid: 1f324a4ba374a464d970889bc54dfd17
+  - enabled: 1
+    path: Assets/Scenes/2. Tutorial Color Cube.unity
+    guid: 5646232ee2468c14a96dfe12efce8dd4
+  - enabled: 1
+    path: Assets/Scenes/3. Tutorial Objectives.unity
+    guid: 6154a37d61a414a4ebbfad71fe102a25
+  - enabled: 1
+    path: Assets/Scenes/4. M-Sideways.unity
+    guid: 614ca1eadc2a0874cb5ef087f7e45ec9
+  - enabled: 1
+    path: Assets/Scenes/5. L-Reverse.unity
+    guid: 25f804c439b1c8248b0b5ff578baacc2
+  - enabled: 1
+    path: Assets/Scenes/6. S-Shape.unity
+    guid: 5dda73cf57ec46d488d69241c912f74f
+  - enabled: 1
+    path: Assets/Scenes/7. Tutorial Ice.unity
+    guid: cf4e602fc7cd7704882c657cb4cb0a92
+  - enabled: 1
+    path: Assets/Scenes/8. Break Ice.unity
+    guid: 8a243f60a6a4fc44f8075ffa793d7fd4
+  - enabled: 1
+    path: Assets/Scenes/9. Cheol 4.unity
+    guid: 054302a60c839dd4bb13d4a2f4dc3734
+  - enabled: 1
+    path: Assets/Scenes/10. Tutorial Finish.unity
+    guid: fcf9beb57956de5428167983f7648a8d
+  - enabled: 1
+    path: Assets/Scenes/11. Dice.unity
+    guid: f51908a2148781f4aaac32e843500bb0
+  - enabled: 1
+    path: Assets/Scenes/12. 11.unity
+    guid: 50b2fe87c062e66409a551e1c58052a3
+  - enabled: 1
+    path: Assets/Scenes/13. Symmetry.unity
+    guid: b334c3860afa1a5488f0170d1c1fc3da
+  - enabled: 1
+    path: Assets/Scenes/14. Snake.unity
+    guid: 0c98d8a096c63f54985a5e94defdb956
+  - enabled: 1
+    path: Assets/Scenes/15. 111.unity
+    guid: 6ab1bef34567f6742b9a339cb7ca7cfb
+  - enabled: 1
+    path: Assets/Scenes/16. 8.unity
+    guid: 5b0dae92d06bc3a48a8ff64c35613d84
+  - enabled: 1
+    path: Assets/Scenes/17. Alien.unity
+    guid: 20582276bd37d544f99124a0b2bde385
+  - enabled: 1
+    path: Assets/Scenes/18. I - Shape.unity
+    guid: e7a45668f7cf88d4e9e0404d6f0c547e
+  - enabled: 1
+    path: Assets/Scenes/19. Dizzy.unity
+    guid: ff6c2327752efe44086321b46198dbae
+  - enabled: 1
+    path: Assets/Scenes/20. Candy.unity
+    guid: f45f71d1bf0945443a504d1cef801499
+  - enabled: 1
+    path: Assets/Scenes/21. Tutorial Square Cube.unity
+    guid: aee1b516483e8144686ca1b58fabecbf
+  - enabled: 1
+    path: Assets/Scenes/22. Hammer.unity
+    guid: 439f705f36760324e8cf0edf44a2b97d
+  - enabled: 1
+    path: Assets/Scenes/23. Sandglass.unity
+    guid: dd960bfb94706a345a522bb1482b4ba1
+  - enabled: 1
+    path: Assets/Scenes/24. Fan.unity
+    guid: e1c840a1edef9a94994f57abb0225b41
+  - enabled: 1
+    path: Assets/Scenes/25. Paint Ad.unity
+    guid: 4ba59b88f33a7a341b8f6fad758d6f5d
+  - enabled: 1
+    path: Assets/Scenes/26. All 19.unity
+    guid: aaee28ba8b111154b89a104376831597
+  - enabled: 1
+    path: Assets/Scenes/27. Target.unity
+    guid: 50f13333cc111e64bbce7225943a1893
+  - enabled: 1
+    path: Assets/Scenes/28. Pharmacy.unity
+    guid: 4604fa4decf29b14c82a0211a4b84314
+  - enabled: 1
+    path: Assets/Scenes/29. Window.unity
+    guid: 6271103a90f5c0c4192202c0b9a621b0
+  - enabled: 1
+    path: Assets/Scenes/30. Tank.unity
+    guid: d6a2ae056ba0c514f95f8cbe5fa9318a
+  - enabled: 1
+    path: Assets/Scenes/31. Tutorial Cross Cube.unity
+    guid: f9281d7b34b61534d9d7c4f306a7e75b
+  - enabled: 1
+    path: Assets/Scenes/32. Fork.unity
+    guid: d815ba5eb711eab4585c06521015b224
+  - enabled: 1
+    path: Assets/Scenes/33. Comb.unity
+    guid: 1349d8e99b28acd40ae78cc6b0160ffb
+  - enabled: 1
+    path: Assets/Scenes/34. Archery Target.unity
+    guid: 50a86564f21d6dd448dc28465d16f21c
+  - enabled: 1
+    path: Assets/Scenes/35. Amoeba.unity
+    guid: 47163ed75c9691346aad5327ed424b29
+  - enabled: 1
+    path: Assets/Scenes/36. Clover.unity
+    guid: 7f0c1ccea7d4abc4a8ea3fd0f13563b7
+  - enabled: 1
+    path: Assets/Scenes/37. Fields 2.unity
+    guid: 5a3b18785e622174db02136529df236f
+  - enabled: 1
+    path: Assets/Scenes/38. Candy 2.unity
+    guid: f746082996ffe68459235419b2ca0fab
+  - enabled: 1
+    path: Assets/Scenes/39. Chess.unity
+    guid: ba69b11aec33a7a45828c5113850f8d7
+  - enabled: 1
+    path: Assets/Scenes/40. Spiral.unity
+    guid: c8a81ec39d8b39245867de29da46dd83
+  - enabled: 1
+    path: Assets/Scenes/41. Tutorial Warp.unity
+    guid: e95321ed77836a244a7baf8dd3f5a9ca
+  - enabled: 1
+    path: Assets/Scenes/42. Three Squares.unity
+    guid: 4b78f2c3b6c8f3f44acdcb9cca0e68eb
+  - enabled: 1
+    path: Assets/Scenes/43. Z-Shape.unity
+    guid: 92a2966a2533a7248b63075f73c39702
+  - enabled: 1
+    path: Assets/Scenes/44. LOVE.unity
+    guid: 19ee2b5919f154543be66d0a1d43b6ce
+  - enabled: 1
+    path: Assets/Scenes/45. Microsoft.unity
+    guid: 99e5422723877024599d51ab19536dbf
+  - enabled: 1
+    path: Assets/Scenes/46. Twins.unity
+    guid: a9b80b465249e0d4e9643bc13fddf0e5
+  - enabled: 1
+    path: Assets/Scenes/47. Chex.unity
+    guid: 2cc6f63b1c708c245bbaa2c99e53738d
+  - enabled: 1
+    path: Assets/Scenes/48. Diamond.unity
+    guid: 1601694fce176494cb33123a3251909e
+  - enabled: 1
+    path: Assets/Scenes/49. Windmill.unity
+    guid: cbfeabfda347e0a4ea7969ae1c974c2b
+  - enabled: 1
+    path: Assets/Scenes/50. Window 2.unity
+    guid: 8d68c2a06c0b8da4895134ffe6da4328
+  - enabled: 1
+    path: Assets/Scenes/51. Christmas Tree.unity
+    guid: 29290359f74d2f846be46f2d5a46b40b
+  - enabled: 1
+    path: Assets/Scenes/52. Pinwheel.unity
+    guid: 07a5a8e0baa9b294f91160feee136b84
+  - enabled: 1
+    path: Assets/Scenes/53. Two Forks.unity
+    guid: e9b235a36f97a9e4693181d76fe61ad6
+  - enabled: 1
+    path: Assets/Scenes/54. Eight Caterpies.unity
+    guid: fe2dd39c24305a64a8c0aa8373f0704b
+  - enabled: 1
+    path: Assets/Scenes/55. Squares 9.unity
+    guid: b5744f55bb118f946bcaac0869f4495a
+  - enabled: 1
+    path: Assets/Scenes/56. Stairs 2.unity
+    guid: 9c314d4211724ce439a5259a2e37f51f
+  - enabled: 1
+    path: Assets/Scenes/57. Honeycomb.unity
+    guid: 76c1f0ec8f36e6d47be6e72cef97f0c2
+  - enabled: 1
+    path: Assets/Scenes/58. Shape - i.unity
+    guid: 19d2efd22335a5c4ca5d739d43a43f5b
+  - enabled: 1
+    path: Assets/Scenes/59. Rectangles 2.unity
+    guid: 262feb61c16d01d419b7140d75b48c74
+  - enabled: 1
+    path: Assets/Scenes/60. Building.unity
+    guid: a4b9e7f785af4bd4ebffba1d4abda4bf
+  - enabled: 1
+    path: Assets/Scenes/61. Wave-S.unity
+    guid: 9cf991408758d1b4f868671adfcbafa5
+  - enabled: 1
+    path: Assets/Scenes/62. Squares 6.unity
+    guid: 2c3e010ba6b77cb4cba22d2f95051974
+  - enabled: 1
+    path: Assets/Scenes/63. Bug 1.unity
+    guid: 5c8f000e4af8de84ea44481ef4865818
+  - enabled: 1
+    path: Assets/Scenes/64. Forever Love.unity
+    guid: 37838d6594d6fa5439f00fd7341c6017
+  - enabled: 1
+    path: Assets/Scenes/65. Heater.unity
+    guid: 9969bc7802b02ae48afa8a023b3f9f65
+  - enabled: 1
+    path: Assets/Scenes/66. Wheels 4.unity
+    guid: ff8431f1c63b9344d8fd667dca9bf686
+  - enabled: 1
+    path: Assets/Scenes/67. Web.unity
+    guid: 68c39d104af12d745bd7a93f0123193b
+  - enabled: 1
+    path: Assets/Scenes/68. Rainbow Square.unity
+    guid: 7ecac82bb3ab366439389d7db613d3ba
+  - enabled: 1
+    path: Assets/Scenes/69. Giant Sharp.unity
+    guid: 1c8c49e6b539fd942bcaa8a377661183
+  - enabled: 1
+    path: Assets/Scenes/70. Pretzel.unity
+    guid: b02fe07613121f443b91fa99428b675d
+  - enabled: 1
+    path: Assets/Scenes/71. Gift Box.unity
+    guid: 335a8f6af8e66d04db0f6bfaa4df2dbb
+  - enabled: 1
+    path: Assets/Scenes/72. Broken Heart.unity
+    guid: e746dc9a1e37ac04797207143d707ba5
+  - enabled: 1
+    path: Assets/Scenes/73. Perfect Squares.unity
+    guid: e3cd72cd7fc761144b2f7a8526f0dfe1
+  - enabled: 1
+    path: Assets/Scenes/74. Cross and Square.unity
+    guid: 86782dd895d04504182ffcc7ad5fed53
+  - enabled: 1
+    path: Assets/Scenes/75. Web 2.unity
+    guid: c73dddff66e02464ca25e1b978418c3b
+  - enabled: 1
+    path: Assets/Scenes/76. Rail Road.unity
+    guid: 19ccb90dd6968b84f9254d0ec1a5cc94
+  - enabled: 1
+    path: Assets/Scenes/77. Two Colors.unity
+    guid: 11e6ced941fb3ff4eae71165e7b72dc4
+  - enabled: 1
+    path: Assets/Scenes/78. Tree.unity
+    guid: 663a1002ab217004fb9d4432fec30de4
+  - enabled: 1
+    path: Assets/Scenes/79. Eight Caterpies 2.unity
+    guid: 8b74105165f06024aac99cf2d40a709e
+  - enabled: 1
+    path: Assets/Scenes/80. Spin.unity
+    guid: 8dba22b15e465f346871724f1c98b873
+  - enabled: 1
+    path: Assets/Scenes/81. Ladder.unity
+    guid: b8d27acc673ccf343bee57fb733e1ed5
+  - enabled: 1
+    path: Assets/Scenes/82. Coil.unity
+    guid: a88e0e07656214d429a1f275657a6dd9
+  - enabled: 1
+    path: Assets/Scenes/83. Rope.unity
+    guid: 8a45c6de5f058a84dae685fe51bea079
+  - enabled: 1
+    path: Assets/Scenes/84. Wings.unity
+    guid: 43a39febc1d0d5d4ba69bbb18f0698c5
+  - enabled: 1
+    path: Assets/Scenes/85. Bug 2.unity
+    guid: 2c39e8bdcfb56374c8a6b7b9a1e895d3
+  - enabled: 1
+    path: Assets/Scenes/86. Sharp.unity
+    guid: 811e435ad00b86848a19d142061f02dc
+  - enabled: 1
+    path: Assets/Scenes/87. Rainbow Square 2.unity
+    guid: 2f2b430c00475c146a90edd091fb2511
+  - enabled: 1
+    path: Assets/Scenes/88. SHYR.unity
+    guid: 8d5376f7176fbd2418f8cc66c61e4317
+  - enabled: 1
+    path: Assets/Scenes/89. Return.unity
+    guid: c6651c66ea90a24429a9cf89e1c2c3a1
+  - enabled: 1
+    path: Assets/Scenes/90. Come Back Home.unity
+    guid: 148db37d6da1a19418c83b7b32331ced
+  - enabled: 1
+    path: Assets/Scenes/91. Apartment.unity
+    guid: 9f76d6bd6dabda8439b0ed3fb9f3b7a6
+  - enabled: 1
+    path: Assets/Scenes/92. Fraternal Twins.unity
+    guid: a6012ff5e448ca44e8a166e7cadd02fd
+  - enabled: 1
+    path: Assets/Scenes/93. Mismatch.unity
+    guid: 0a0f3dbb69b7ac745a41f55d3a0fba22
+  - enabled: 1
+    path: Assets/Scenes/94. WhichOne.unity
+    guid: 8c9367e50280ff74ab5214ec7448f21d
+  - enabled: 1
+    path: Assets/Scenes/95. Islands.unity
+    guid: 29582494f5136dd499d37cf2743266d3
+  - enabled: 1
+    path: Assets/Scenes/96. Just Warp.unity
+    guid: 8e2c3f95bdd02f945a074a281ca8b887
+  - enabled: 1
+    path: Assets/Scenes/97. Three-Reverse.unity
+    guid: bb00680e880229e46a2df1d9335ca7bc
+  - enabled: 1
+    path: Assets/Scenes/98. Just Cross.unity
+    guid: 5b3467681f438284cac7f546ec2379e9
+  - enabled: 1
+    path: Assets/Scenes/99. Ant.unity
+    guid: db332b20a1d151b42af0869910667ff7
+  - enabled: 1
+    path: Assets/Scenes/100. Finish.unity
+    guid: dd55ec33c09005f4fa44bfb2bc324c2e
+  m_configObjects: {}

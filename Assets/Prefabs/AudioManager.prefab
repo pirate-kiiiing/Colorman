@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6130827722083168481
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5780847945108834526}
+  - component: {fileID: 7524524518639359291}
+  m_Layer: 0
+  m_Name: AudioManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5780847945108834526
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6130827722083168481}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7524524518639359291
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6130827722083168481}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 855abf6c5602e184abe9b325b1aafd77, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sounds:
+  - Clip: {fileID: 8300000, guid: f5711bc000bbb104684dc2836096b0fa, type: 3}
+    Loop: 1
+    Volume: 0.7
+    Pitch: 1
+    Source: {fileID: 0}
+  - Clip: {fileID: 8300000, guid: 0b67652df06b052458f46be8cbe1f5bc, type: 3}
+    Loop: 0
+    Volume: 1
+    Pitch: 1.2
+    Source: {fileID: 0}
+  - Clip: {fileID: 8300000, guid: fc217b3d9d7c4504b93baa95fec39fd9, type: 3}
+    Loop: 0
+    Volume: 1
+    Pitch: 1.1
+    Source: {fileID: 0}
+  - Clip: {fileID: 8300000, guid: f2f33c0fb2fb69d47b815c616809f818, type: 3}
+    Loop: 0
+    Volume: 0.3
+    Pitch: 1.2
+    Source: {fileID: 0}
+  - Clip: {fileID: 8300000, guid: ff56687768411224a9c79bee06cf9c91, type: 3}
+    Loop: 0
+    Volume: 0.3
+    Pitch: 1
+    Source: {fileID: 0}
+  - Clip: {fileID: 8300000, guid: aa8b828877ea8e443b7a41f169e88444, type: 3}
+    Loop: 0
+    Volume: 0.5
+    Pitch: 1
+    Source: {fileID: 0}
+  - Clip: {fileID: 8300000, guid: 68e6c5f0d562f594aa1aba967b7e4f73, type: 3}
+    Loop: 0
+    Volume: 0.5
+    Pitch: 1
+    Source: {fileID: 0}
+  - Clip: {fileID: 8300000, guid: 75ddb6b16046dc14d99ee121bf3c15f3, type: 3}
+    Loop: 0
+    Volume: 0.7
+    Pitch: 1.8
+    Source: {fileID: 0}
+  - Clip: {fileID: 8300000, guid: 3bc073fefe4721e4cb9fb24dc6ae0e30, type: 3}
+    Loop: 0
+    Volume: 0.7
+    Pitch: 0.9
+    Source: {fileID: 0}

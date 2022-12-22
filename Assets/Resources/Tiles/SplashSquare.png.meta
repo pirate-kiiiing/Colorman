@@ -1,0 +1,560 @@
+fileFormatVersion: 2
+guid: 468ceb9a02cbaab449cfb33db642cc39
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2695617253142889713
+    second: SplashSquare2_0
+  - first:
+      213: -8098226875748071031
+    second: SplashSquare2_1
+  - first:
+      213: -4358184194889082673
+    second: SplashSquare2_2
+  - first:
+      213: -6792535797328766618
+    second: SplashSquare2_3
+  - first:
+      213: 7772325976828393466
+    second: SplashSquare2_4
+  - first:
+      213: 6845451145848306980
+    second: SplashSquare2_5
+  - first:
+      213: -2678938920939068658
+    second: SplashSquare2_6
+  - first:
+      213: 2152729101396403299
+    second: SplashSquare2_7
+  - first:
+      213: 190736715786308790
+    second: SplashSquare2_8
+  - first:
+      213: -5548087030644825193
+    second: SplashSquare2_9
+  - first:
+      213: -5717237304009912425
+    second: SplashSquare2_10
+  - first:
+      213: 7559103720202660548
+    second: SplashSquare2_11
+  - first:
+      213: -3344088470433166384
+    second: SplashSquare2_0
+  - first:
+      213: -6133850347393760167
+    second: SplashSquare2_1
+  - first:
+      213: 9046507671308175540
+    second: SplashSquare2_2
+  - first:
+      213: 7173598570989690533
+    second: SplashSquare2_3
+  - first:
+      213: -4458867770249513810
+    second: SplashSquare2_4
+  - first:
+      213: -7480340056784527297
+    second: SplashSquare2_5
+  - first:
+      213: 243100836653316161
+    second: SplashSquare2_6
+  - first:
+      213: 5345607832600698548
+    second: SplashSquare2_7
+  - first:
+      213: -4081850460103663511
+    second: SplashSquare2_8
+  - first:
+      213: -6738363545275838358
+    second: SplashSquare2_9
+  - first:
+      213: 492131284733349823
+    second: SplashSquare2_10
+  - first:
+      213: 2057005992075352256
+    second: SplashSquare2_11
+  - first:
+      213: 4361009821456847043
+    second: SplashSquare2_12
+  - first:
+      213: -3505371069728442049
+    second: SplashSquare2_13
+  - first:
+      213: -9000781283988422768
+    second: SplashSquare2_14
+  - first:
+      213: -2378181584717055109
+    second: SplashSquare2_15
+  - first:
+      213: -1112423556699818929
+    second: SplashSquare2_16
+  - first:
+      213: 6531415722579838548
+    second: SplashSquare2_17
+  - first:
+      213: -551779264203694468
+    second: SplashSquare2_18
+  - first:
+      213: 120039137675647753
+    second: SplashSquare2_19
+  - first:
+      213: 1896936046102083113
+    second: SplashSquare2_20
+  - first:
+      213: 5294720312068257933
+    second: SplashSquare2_21
+  - first:
+      213: 919541112971854297
+    second: SplashSquare2_22
+  - first:
+      213: -1933743701827326455
+    second: SplashSquare2_23
+  - first:
+      213: 9114712633502821276
+    second: SplashSquare2_24
+  - first:
+      213: -511951626638501388
+    second: SplashSquare2_25
+  - first:
+      213: -5376962309422921005
+    second: SplashSquare2_26
+  - first:
+      213: 8294847265686673817
+    second: SplashSquare2_27
+  - first:
+      213: -2927287986993888703
+    second: SplashSquare2_28
+  - first:
+      213: 5532947273577567374
+    second: SplashSquare2_29
+  - first:
+      213: 7601567738153067580
+    second: SplashSquare2_30
+  - first:
+      213: -3294580208057170141
+    second: SplashSquare2_31
+  - first:
+      213: 9127025137714773625
+    second: SplashSquare2_32
+  - first:
+      213: 1824566910515451393
+    second: SplashSquare2_33
+  - first:
+      213: 5700964359996470225
+    second: SplashSquare2_34
+  - first:
+      213: 342522199853231299
+    second: SplashSquare2_35
+  - first:
+      213: -5863678802653403445
+    second: SplashSquare2_36
+  - first:
+      213: -8242853155652184976
+    second: SplashSquare2_37
+  - first:
+      213: 6660821138729661797
+    second: SplashSquare2_38
+  - first:
+      213: 3658337264116286576
+    second: SplashSquare2_39
+  - first:
+      213: -4589571368236224807
+    second: SplashSquare2_40
+  - first:
+      213: -8833892584890414914
+    second: SplashSquare2_41
+  - first:
+      213: -2668751422552733890
+    second: SplashSquare2_42
+  - first:
+      213: 8015827839816865752
+    second: SplashSquare2_43
+  - first:
+      213: 4519915878538577997
+    second: SplashSquare2_44
+  - first:
+      213: 3238215453183697032
+    second: SplashSquare2_45
+  - first:
+      213: 4996895447281908189
+    second: SplashSquare2_46
+  - first:
+      213: -5383180473864266987
+    second: SplashSquare2_47
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SplashSquare2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0db0a5ef0496791d0800000000000000
+      internalID: -3344088470433166384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashSquare2_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 954403a8b9f20eaa0800000000000000
+      internalID: -6133850347393760167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashSquare2_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b88b2eebc6ab8d70800000000000000
+      internalID: 9046507671308175540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashSquare2_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ae171994edbd8360800000000000000
+      internalID: 7173598570989690533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashSquare2_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea4f6d5136bee12c0800000000000000
+      internalID: -4458867770249513810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashSquare2_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f30ab34d95e703890800000000000000
+      internalID: -7480340056784527297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashSquare2_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14832554ceaaf5300800000000000000
+      internalID: 243100836653316161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashSquare2_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bed5b2600a6f2a40800000000000000
+      internalID: 5345607832600698548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashSquare2_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 960a14312aa5a57c0800000000000000
+      internalID: -4081850460103663511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashSquare2_9
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6054649e068c72a0800000000000000
+      internalID: -6738363545275838358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashSquare2_10
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbf4369cbc664d600800000000000000
+      internalID: 492131284733349823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashSquare2_11
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c850822d04fb8c10800000000000000
+      internalID: 2057005992075352256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
