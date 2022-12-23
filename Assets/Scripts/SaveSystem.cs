@@ -37,7 +37,6 @@ public static class SaveSystem
             return new SaveData
             {
                 Level = 1,
-                RateUsTimer = DateTime.Now,
             };
         }
 
@@ -68,5 +67,4 @@ public static class SaveSystem
 public class SaveData
 {
     public int Level { get; set; }
-    public DateTime RateUsTimer { get; set; }
 }

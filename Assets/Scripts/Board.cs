@@ -1,7 +1,6 @@
 ﻿using System;
 using System.Collections;
 using UnityEngine;
-using UnityEngine.Advertisements;
 using UnityEngine.Tilemaps;
 using TileMaps = UnityEngine.Tilemaps;
 
@@ -39,8 +38,7 @@ public class Board : MonoBehaviour
         if (IsClickable() == false) return;
         if (GameManager.Instance.IsStageComplete == true)
         {
-            AdsManager.Instance.Execute(
-                GameManager.Instance.LoadNextScene);
+            GameManager.Instance.LoadNextScene();
 
             return;
         }
@@ -83,10 +81,8 @@ public class Board : MonoBehaviour
         if (Player.Instance.IsMoving() == true) return false;
         if (GameManager.Instance.IsOutOfMoves() == true) return false;
         if (TutorialManager.Instance != null && TutorialManager.Instance.isActiveAndEnabled == true) return false;
-        if (Advertisement.isShowing == true) return false;
         if (Input.GetMouseButtonDown(0) == false) return false;
         if (Setting.Instance.Active == true) return false;
-        if (RateUs.Instance.Active == true) return false;
 
         return true;
     }

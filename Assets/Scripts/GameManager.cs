@@ -57,7 +57,6 @@ public class GameManager : MonoBehaviour
     public ParticleSystem Fireworks;
     public GameObject _outOfMoves;
     public GameObject _outOfMovesPanel; 
-    public GameObject _buttonSkip;
     public GameObject _buttonRestart;
     public GameObject _buttonLevel;
     public GameObject _buttonLeft;
@@ -102,7 +101,6 @@ public class GameManager : MonoBehaviour
         LevelManager.Instance.Init();
         Board.Instance.Init();
         Player.Instance.Init();
-        RateUs.Instance.Activate();
 
         UpdateGameState();
     }
@@ -152,7 +150,6 @@ public class GameManager : MonoBehaviour
         if (show == true)
         {
             AudioManager.Instance.Play("GameOver");
-            _buttonSkip.SetActive(false);
             _buttonRestart.SetActive(false);
             StartCoroutine(ActivateGameOver());
         }
@@ -186,9 +183,7 @@ public class GameManager : MonoBehaviour
 #else
         int scene = GetScene(Level);
 #endif
-        AdsManager.Instance.Execute(
-            () => SceneManager.LoadScene(scene),
-            deferAd);
+        SceneManager.LoadScene(scene);
     }
 
     public static bool HasNetwork()
@@ -196,7 +191,6 @@ public class GameManager : MonoBehaviour
 
     public void ShowSkipReplay(bool show)
     {
-        _buttonSkip.SetActive(show);
         _buttonRestart.SetActive(show);
     }
 

@@ -10,11 +10,6 @@
     void Start()
     {
         SetColor(GameManager.Instance.ThemeColor);
-
-        if (FixPosition == false)
-        {
-            transform.position = GetScreenPosition(transform.position);
-        }
     }
 
     protected override string GetSpriteName(Color color = Color.Red)

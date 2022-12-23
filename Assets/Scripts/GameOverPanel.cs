@@ -1,9 +1,7 @@
 ﻿using UnityEngine;
-using UnityEngine.Advertisements;
 
 public class GameOverPanel : MonoBehaviour
 {
-    public GameObject ButtonAd;
     public float move_speed;
 
     private static Vector3 startingPosition = new Vector3(0f, -2300f, 0f);
@@ -33,12 +31,6 @@ public class GameOverPanel : MonoBehaviour
     public void Activate()
     {
         targetPosition = new Vector3(0, 0, 0);
-
-        if (GameManager.HasNetwork() == false ||
-            Advertisement.IsReady(PlacementId.Rewarded) == false)
-        {
-            ButtonAd.SetActive(false);
-        }
     }
 
     public void Refresh()

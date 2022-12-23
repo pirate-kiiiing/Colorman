@@ -34,13 +34,6 @@ public class Test : MonoBehaviour
         // todo
         //isTest = true;
         TestObject.SetActive(isTest);
-
-        text.text = AdsManager.Instance.GetState();
-    }
-
-    void FixedUpdate()
-    {
-        text.text = AdsManager.Instance.GetState();
     }
 
     public void ToNextLevel()
