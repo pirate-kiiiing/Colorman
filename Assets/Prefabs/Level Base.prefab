@@ -4322,7 +4322,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: Tab to Next Level
+  m_Text: Click to continue
 --- !u!114 &6175109979078321868
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5272,6 +5272,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_MinParticleSize
       value: 0.03
+      objectReference: {fileID: 0}
+    - target: {fileID: 7842368431214062489, guid: e7e78256f99b8b342982cf05623a5310,
+        type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7842368431214062490, guid: e7e78256f99b8b342982cf05623a5310,
         type: 3}

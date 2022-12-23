@@ -7,7 +7,8 @@ public class TitleManager : MonoBehaviour
 
     public static TitleManager Instance;
 
-    public GameObject TabToContinue;
+    public GameObject NewGame;
+    public GameObject Continue;
     public GameObject Title;
     public RuntimeAnimatorController TitleComplete;
 
@@ -20,11 +21,13 @@ public class TitleManager : MonoBehaviour
         {
             isReady = value;
 
-            TabToContinue.SetActive(isReady);
+            NewGame.SetActive(isReady);
+            Continue.SetActive(isReady);
+            
+            if (isReady == true && SaveSystem.Data.Level == 1) Continue.SetActive(false);
         }
     }
 
-    private SaveData data;
     private Animator titleAnimator;
 
     void Awake()
@@ -40,23 +43,29 @@ public class TitleManager : MonoBehaviour
     void Start()
     {
         Application.targetFrameRate = 60;
-
-        data = SaveSystem.Data;
     }
 
     void Update()
     {
         UpdateTitleAnimation();
-
-        if (IsReady == false) return;
-        if (Input.GetMouseButtonUp(0) == false) return;
-
-        GameManager.LoadNextScene(data.Level);
     }
 
     public void ActivateTitle()
     {
         titleAnimator.speed = titleAnimationSpeed;
+    }
+
+    public void ResetLevel()
+    {
+        SaveSystem.Data.Level = 1;
+        SaveSystem.Save();
+        
+        ToScene();
+    }
+
+    public void ToScene()
+    {
+        GameManager.LoadNextScene(SaveSystem.Data.Level);
     }
 
     private void UpdateTitleAnimation()
